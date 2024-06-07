@@ -70,6 +70,11 @@
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
+      "name": "Python",
+      "level": "intermedio",
+      "keywords": ["Python", "Backend"]
+    },
+    {
       "name": "Git",
       "level": "intermedio",
       "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
