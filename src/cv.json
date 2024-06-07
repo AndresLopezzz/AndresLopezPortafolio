@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Ank",
-    "label": "Estudiante de ingenieria de sistemas y desarrollador web",
+    "name": "Andres Lopez",
+    "label": "Estudiante de ingenieria de sistemas, desarrollador web junior y diseñador UX/UI",
     "image": "https://unavatar.io/AnLuuuFx",
     "email": "aflopezc18@gmail.com",
     "phone": "+57 3043574318",
     "url": "",
-    "summary": "Estudiante de quinto semestre de Ingeniería de Sistemas con un año de experiencia práctica en programación. Apasionado por el desarrollo web y comprometido con el aprendizaje continuo. Habilidades en resolución de problemas y trabajo en equipo. Residente en Barranquilla, Colombia.",
+    "summary": "Estudiante de quinto semestre de Ingeniería de Sistemas con un año de experiencia práctica en programación y diseño UX/UI, como en areas afines, comprometido con el aprendizaje continuo. Habilidades en resolución de problemas y trabajo en equipo. Residente en Barranquilla, Colombia.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -42,7 +42,7 @@
     {
       "institution": "Universidad de la costa (CUC)",
       "url": "https://www.cuc.edu.co/",
-      "area": "Ingeniero de sistemas",
+      "area": "Ingenieria de sistemas",
       "studyType": "Bachelor",
       "startDate": "2022-01-01",
       "endDate": null,
@@ -70,23 +70,13 @@
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
-      "name": "TypeScript",
-      "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
       "name": "Git",
-      "level": "Avanzado",
+      "level": "intermedio",
       "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
-      "level": "Avanzado",
+      "level": "intermedio",
       "keywords": [
         "Control de Versiones",
         "Colaboración",
@@ -98,6 +88,21 @@
       "name": "React",
       "level": "Principante",
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Astro",
+      "level": "Principante",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library"]
+    },
+    {
+      "name": "Figma",
+      "level": "intermedio",
+      "keywords": ["Diseño UX/UI", "Diseño"]
+    },
+    {
+      "name": "After Effects",
+      "level": "intermedio",
+      "keywords": ["After Effects", "Edicion", "Diseño"]
     }
   ],
   "languages": [
@@ -124,51 +129,13 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Ride-Sharing",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
-      "url": "https://miduconf.com"
+      "description": "Aplicacion de mobilidad universitario y agilizacion del estudio",
+      "highlights": ["Tu viaje ya!", "En desarrollo"],
+      "url": "https://ride-sharing-tau.vercel.app/",
+      "github": "https://github.com/AndresLopezzz/RideSharing",
+      "figma": "https://www.figma.com/community/file/1380991377824341422/project-ridesharing"
     }
   ]
 }
