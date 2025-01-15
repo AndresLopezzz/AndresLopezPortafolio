@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Andres Lopez",
-    "label": "Estudiante de ingenieria de sistemas, desarrollador web junior y diseñador UX/UI",
+    "label": "Systems Engineering Student, Junior Web Developer and UX/UI Designer",
     "image": "https://unavatar.io/github/AndresLopezzz",
     "email": "aflopezc18@gmail.com",
     "phone": "+57 3043574318",
     "url": "",
-    "summary": "Estudiante de septimo semestre de Ingeniería de Sistemas con un año de experiencia práctica en programación y diseño UX/UI, como en areas afines, comprometido con el aprendizaje continuo. Habilidades en resolución de problemas y trabajo en equipo. Residente en Barranquilla, Colombia.",
+    "summary": "Seventh semester Systems Engineering student with one year of practical experience in programming, UX/UI design, and database management. Actively seeking opportunities to enhance skills and gain real-world experience. Strong foundation in problem solving, teamwork, and database technologies like SQL. Committed to continuous learning and professional growth. Based in Barranquilla, Colombia.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -33,16 +33,26 @@
       "position": "Frontend developer & UX/UI Developer",
       "startDate": "2024-02-01",
       "endDate": null,
-      "summary": "Participo en el desarrollo de interfaces graficas tanto webs como mobiles para una starUp universitaria enfocada en movilidad y sustentabilidad en el campus, Desarrollé paginas webs de landing y de usuario y tambien diseñé la aplicacion mobil.",
+      "summary": "I participate in the development of both web and mobile graphic interfaces for a university startup focused on mobility and sustainability on campus. I developed landing and user web pages and also designed the mobile application.",
       "highlights": ["Started the company"]
     }
   ],
   "volunteer": [],
   "education": [
     {
+      "institution": "Escuela Normal Superior la Hacienda(ENSH)",
+      "url": "https://normallahacienda.edu.co/",
+      "area": "Bachelor",
+      "studyType": "Bachelor",
+      "startDate": "2015-01-01",
+      "endDate": "2021-12-31",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    },
+    {
       "institution": "Universidad de la costa (CUC)",
       "url": "https://www.cuc.edu.co/",
-      "area": "Ingenieria de sistemas",
+      "area": "Systems Engineering",
       "studyType": "Bachelor",
       "startDate": "2022-01-01",
       "endDate": null,
@@ -57,57 +67,62 @@
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": ["Desarrollo Web", "Frontend"]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "CSS",
-      "level": "intermedio",
-      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
-      "level": "intermedio",
-      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Python",
-      "level": "intermedio",
+      "level": "Intermediate",
       "keywords": ["Python", "Backend"]
     },
     {
       "name": "Git",
-      "level": "intermedio",
-      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "GitHub",
-      "level": "intermedio",
-      "keywords": [
-        "Control de Versiones",
-        "Colaboración",
-        "Código Fuente",
-        "Git"
-      ]
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
       "name": "React",
-      "level": "Principante",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "NextJs",
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "Astro",
-      "level": "Principante",
-      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library"]
+      "level": "Beginner",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library"]
     },
     {
       "name": "Figma",
-      "level": "intermedio",
-      "keywords": ["Diseño UX/UI", "Diseño"]
+      "level": "Intermediate",
+      "keywords": ["UX/UI Design", "Design"]
     },
     {
       "name": "After Effects",
-      "level": "intermedio",
-      "keywords": ["After Effects", "Edicion", "Diseño"]
+      "level": "Intermediate",
+      "keywords": ["After Effects", "Editing", "Design"]
+    },
+    {
+      "name": "SQL",
+      "level": "Beginner",
+      "keywords": ["DataBase", "Editing", "Design"]
     }
   ],
   "languages": [
@@ -129,15 +144,15 @@
   "references": [
     {
       "name": "Jane Doe",
-      "reference": "Reference…"
+      "reference": "Reference..."
     }
   ],
   "projects": [
     {
       "name": "Ride-Sharing",
       "isActive": true,
-      "description": "Aplicacion de mobilidad universitario y agilizacion del estudio",
-      "highlights": ["Tu viaje ya!", "En desarrollo"],
+      "description": "University mobility application and study streamlining",
+      "highlights": ["Your ride now!", "In development"],
       "url": "https://ride-sharing-tau.vercel.app/",
       "github": "https://github.com/AndresLopezzz/RideSharing",
       "figma": "https://www.figma.com/community/file/1380991377824341422/project-ridesharing"
