@@ -10,8 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "^0.5.10",
-    "astro": "^4.5.12",
+    "@astrojs/check": "^0.9.4",
+    "astro": "^5.6.2",
     "minimal-portfolio-practice": "file:",
     "typescript": "^5.4.3"
   },
