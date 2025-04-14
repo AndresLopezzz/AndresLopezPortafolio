@@ -6,7 +6,7 @@
     "email": "aflopezc18@gmail.com",
     "phone": "+57 3043574318",
     "url": "",
-    "summary": "Seventh semester Systems Engineering student with one year of practical experience in programming, UX/UI design, and database management. Actively seeking opportunities to enhance skills and gain real-world experience. Strong foundation in problem solving, teamwork, and database technologies like SQL. Committed to continuous learning and professional growth. Based in Barranquilla, Colombia.",
+    "summary": "Seventh semester Systems Engineering student with one year of practical experience in programming, UX/UI design and FrontEnd development. Actively seeking opportunities to enhance skills and gain real-world experience. Strong foundation in problem solving and teamwork. Committed to continuous learning and professional growth. Based in Barranquilla, Colombia.",
     "location": {
       "address": "",
       "postalCode": "08820",
@@ -156,6 +156,13 @@
       "url": "https://ride-sharing-tau.vercel.app/",
       "github": "https://github.com/AndresLopezzz/RideSharing",
       "figma": "https://www.figma.com/community/file/1380991377824341422/project-ridesharing"
+    },
+    {
+      "name": "ROCA Store",
+      "isActive": true,
+      "description": "Air Conditioner Store",
+      "highlights": ["Made with TiendaNube", "In development"],
+      "url": "https://rocahvacr.com/"
     }
   ]
 }
